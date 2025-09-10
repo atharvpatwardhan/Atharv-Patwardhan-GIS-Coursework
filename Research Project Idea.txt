@@ -1,0 +1,4 @@
+The demand for cloud data centers is rapidly growing, but their massive energy consumption raises critical questions about sustainability. 
+My project idea is to explore how Geographic Information Systems and renewable energy data can guide the placement of future data centers across Europe. 
+The idea is to combine spatial datasets on solar photovoltaic potential, wind energy availability, and internet traffic hubs to identify regions that balance two key factors: abundant access to green energy and proximity to major network infrastructure (to minimize latency). 
+The end goal is to produce a geospatial analysis and visualization that highlights the most promising locations where cloud providers could sustainably expand their infrastructure.
